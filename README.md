@@ -24,7 +24,7 @@
 
 ### 📫 Let’s Connect!
 - [LinkedIn](https://www.linkedin.com/in/smritiesharma)  
-- Email: smritiessharma@gmail.com
+- [Email] (mailto:smritiessharma@gmail.com)
 
 ---
 
