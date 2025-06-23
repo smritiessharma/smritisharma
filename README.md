@@ -23,7 +23,7 @@
 ---
 
 ### 📫 Let’s Connect!
-- [LinkedIn](https://www.linkedin.com/in/smritiesharma)  
+- [LinkedIn](https://www.linkedin.com/in/smritiessharma)  
 - [Email](mailto:smritiessharma@gmail.com)
 
 ---
